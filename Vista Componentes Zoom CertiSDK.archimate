@@ -44,9 +44,6 @@
   </folder>
   <folder name="Views" id="ea97b52b-66be-4677-8006-b6590cadb1e7" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="d682793f-fb3b-4381-bb54-6e0f56a791f1">
-      <child xsi:type="archimate:DiagramObject" id="1e1fec6d-002f-4a6e-90a7-ed1169b5e1b6" targetConnections="d68070b5-f943-40f6-a744-98417bea4460" archimateElement="b287da57-f436-4ce6-b8cf-641a557d1713">
-        <bounds x="816" y="264" width="169" height="127"/>
-      </child>
       <child xsi:type="archimate:DiagramObject" id="306d93af-71ca-441f-a3a3-f988e34b2f3d" fillColor="#ffffcc" archimateElement="23e3bd5e-25a0-4f90-9141-f92a226ebeb7">
         <bounds x="36" y="48" width="744" height="396"/>
         <child xsi:type="archimate:DiagramObject" id="330e7c2d-e15e-4693-b618-2b194b93d205" fillColor="#c0c0c0" archimateElement="1e904a67-0515-4ce2-928b-65278cd54385">
@@ -100,7 +97,6 @@
             </child>
             <child xsi:type="archimate:DiagramObject" id="326bb20e-6534-4a06-b7d7-922449020e7b" targetConnections="b819ef0a-cd2d-49f5-95be-bd250ad92c08 b6e636fc-50f4-49cc-9697-31b8d1f7905e 483a7c0c-3b88-4a4c-972f-77c2e1a199c7 8d65ab91-69c5-4247-85db-2e7de92e4755" archimateElement="896ef05a-4b8e-4b1b-992f-421e7a25fced" type="1">
               <bounds x="36" y="96" width="108" height="25"/>
-              <sourceConnection xsi:type="archimate:Connection" id="d68070b5-f943-40f6-a744-98417bea4460" source="326bb20e-6534-4a06-b7d7-922449020e7b" target="1e1fec6d-002f-4a6e-90a7-ed1169b5e1b6" archimateRelationship="2d50b84e-383c-43a4-8627-6bd63071de7f"/>
               <sourceConnection xsi:type="archimate:Connection" id="476b6e7f-4b85-4838-90a3-90ead4639d76" source="326bb20e-6534-4a06-b7d7-922449020e7b" target="36aa638a-aec9-4d66-a203-5cba72ed22d0" archimateRelationship="f749c2cc-247c-4eac-8912-77640ce7f3b8">
                 <bendpoint startX="139" endX="7" endY="-50"/>
               </sourceConnection>

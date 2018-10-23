@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Kafka - message-conversion-json
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: dmozo
+Implementation-Vendor-Id: com.memorynotfound.spring.kafka
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://memorynotfound.com/spring-kafka-json-serial
+ izer-deserializer-example
+Created-By: Maven Integration for Eclipse
+
